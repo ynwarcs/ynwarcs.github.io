@@ -253,7 +253,7 @@
   font-weight: 600;
   margin-top: -0.5rem;
 
-  @media (max-width: 500px) {
+  @media (max-width: 1000px) {
     @include relative-font-size(1.8);
   }
 
